@@ -44,7 +44,7 @@
 
 ## 3, 4교시 - 미술
 ### 바로가기
-[미술 바로가기](https://rang.edunet.net/class/G000360707/hmwkppList.do?hmwkSeq=723145&hmwkTypeCd=ALL)
+[미술 바로가기](https://rang.edunet.net/class/G000360707/hmwkppList.do?hmwkSeq=730967&hmwkTypeCd=ALL)
 ### 문제
 ```
 슈링클스 디자인하기
