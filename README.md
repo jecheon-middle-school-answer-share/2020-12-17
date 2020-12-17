@@ -15,10 +15,6 @@
 |6교시|국어|
 |7교시|사회|
 
-## 공지
-오늘 5, 6, 교시는 실시간 방송이라 시간맞춰서 듣고 학습완료 쓰면 될듯
-7교시는 
-
 ## 조회
 <!--
 ### 바로가기
@@ -34,13 +30,22 @@
 ```
 
 ## 2교시 - 음악
-<!--
 ### 바로가기
-[음악 바로가기](https://rang.edunet.net/class/G000372933/hmwkppList.do?hmwkSeq=000000&hmwkTypeCd=ALL)
-### 문제 
-### 정답
+[음악 바로가기 1](https://rang.edunet.net/class/G000372933/hmwkppList.do?hmwkSeq=000000&hmwkTypeCd=ALL)
+
+[음악 바로가기 2](https://rang.edunet.net/class/G000372933/hmwkppList.do?hmwkSeq=000000&hmwkTypeCd=ALL)
+### 문제
+```
+성악 발성법 입니다
+감상하고 따라해 보세요
+```
+```
+성악 호흡법 영상입니다
+감상하고 따라해 보세요
+```
 ### 참고 자료
--->
+[![Youtube](http://img.youtube.com/vi/t1vy5cEWfqc/0.jpg)](https://www.youtube.com/embed/t1vy5cEWfqc "Youtube")
+[![Youtube](http://img.youtube.com/vi/OcOYA-pJMKg/0.jpg)](https://www.youtube.com/embed/OcOYA-pJMKg "Youtube")
 
 ## 3, 4교시 - 미술
 ### 바로가기
@@ -53,13 +58,17 @@
 [영상 보러가기](https://play.mbus.tv/1764b30612eed053)
 
 ## 5교시 - 음악
-<!--
 ### 바로가기
-[음악 바로가기](https://rang.edunet.net/class/G000372933/hmwkppList.do?hmwkSeq=000000&hmwkTypeCd=ALL)
-### 문제 
-### 정답
-### 참고 자료
--->
+[음악 바로가기](https://rang.edunet.net/class/G000372933/hmwkppList.do?hmwkSeq=303793&hmwkTypeCd=ALL)
+### 문제
+```
+1. 수업: 유투브-행복씨TV-비보이 한국의 멋을 그리다 시청(12/17.목)
+https://www.youtube.com/channel/UCYuUxqMfD0WHGFo-A1z5i8g
+
+2. 학습과제) 실시간 영상이므로 시간 내에 꼭 들어가서 시청 후
+-> 과제방에 5교시 끝나는 시간에 5교시 시청완료라고 써주세요.
+(그 시간 이외에 시청 완료라고 쓴 것은 출석인정 안됩니다.)
+```
 
 ## 6교시 - 국어
 ### 바로가기
@@ -74,7 +83,6 @@ https://www.youtube.com/channel/UCYuUxqMfD0WHGFo-A1z5i8g
 ★★★★★6교시가 끝날 무렵(3시까지) '6교시 시청 완료'★★★★★★
 라고 과제를 제출하시기 바랍니다. (그 시간 이외에 시청 완료라고 쓴 것은 출석인정 안 됩니다.)
 ```
-[유튜브](https://www.youtube.com/channel/UCYuUxqMfD0WHGFo-A1z5i8g)
 
 ## 7교시 - 사회
 ### 바로가기
@@ -86,5 +94,5 @@ https://www.youtube.com/channel/UCYuUxqMfD0WHGFo-A1z5i8g
 (https://www.youtube.com/channel/UCYuUxqMfD0WHGFo-A1z5i8g)
 
 2. 학습과제) 실시간 영상이므로 시간 내에 꼭 들어가서 시청 후
--> 과제방에 1줄 감상평 남겨주세요.﻿
+-> 과제방에 1줄 감상평 남겨주세요.
 ```
